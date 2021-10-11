@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ABC",
+    "description": "",
+    "home_page_url": "https://chrgrd1818.github.io/publii",
+    "feed_url": "https://chrgrd1818.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chris"
+    },
+    "items": [
+        {
+            "id": "https://chrgrd1818.github.io/publii/article-2.html",
+            "url": "https://chrgrd1818.github.io/publii/article-2.html",
+            "title": "Article 2",
+            "summary": "Nam vel mi nunc. Sed venenatis Nam vel mi nunc. Sed venenatis nibh et dui venenatis, vitae pulvinar dolor pretium. Morbi nec libero venenatis, feugiat ligula vitae, porttitor purus. Aliquam ultrices eget lorem ac faucibus. Donec est lectus, pellentesque sit amet augue in, blandit imperdiet&hellip;",
+            "content_html": "<h2 id=\"nam-vel-mi-nunc-sed-venenatis\">Nam vel mi nunc. Sed venenatis</h2>\n<p>Nam vel mi nunc. Sed venenatis nibh et dui venenatis, vitae pulvinar dolor pretium. Morbi nec libero venenatis, feugiat ligula vitae, porttitor purus. Aliquam ultrices eget lorem ac faucibus. Donec est lectus, pellentesque sit amet augue in, blandit imperdiet tortor. Vestibulum vehicula accumsan ipsum quis sollicitudin. Nulla sit amet sem odio. Fusce viverra rutrum porta. Nulla porta erat id neque porta pulvinar.</p>\n<p>Maecenas nec elit sed felis egestas luctus. Quisque eget nulla turpis. Morbi hendrerit nulla in nisl ultricies posuere. Nullam sagittis sapien non lacus facilisis consequat. Curabitur molestie venenatis arcu, quis ultricies elit porta vel. Curabitur scelerisque lacus id tempor porttitor. Vestibulum ullamcorper venenatis turpis, non interdum odio condimentum nec. In nisl urna, hendrerit eu metus id, sagittis luctus velit. Nulla sollicitudin dolor in nunc convallis, vel malesuada nibh laoreet. Fusce tortor nibh, eleifend dignissim gravida id, auctor a dui. Praesent sed dignissim ipsum. Suspendisse fermentum auctor erat ac efficitur. Donec ut risus finibus, aliquam sapien eget, semper nunc.</p>\n",
+            "author": {
+                "name": "Chris"
+            },
+            "tags": [
+                   "tag003",
+                   "tag002"
+            ],
+            "date_published": "2021-10-11T16:44:59+07:00",
+            "date_modified": "2021-10-11T16:44:59+07:00"
+        },
+        {
+            "id": "https://chrgrd1818.github.io/publii/article-1.html",
+            "url": "https://chrgrd1818.github.io/publii/article-1.html",
+            "title": "Article 1",
+            "summary": " Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sem dolor, eleifend nec interdum quis, luctus at dui. Duis gravida ornare sem, nec gravida ligula lacinia eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos&hellip;",
+            "content_html": "\n    <h3 id=\"lorem-ipsum-dolor-sit-amet\">\n      Lorem ipsum dolor sit amet\n    </h3>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sem dolor, eleifend nec interdum quis, luctus at dui. Duis gravida ornare sem, nec gravida ligula lacinia eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam nec volutpat urna, eu eleifend nulla. Etiam eros dui, pharetra in dui id, dapibus scelerisque nisl. Vestibulum vel consequat metus. Maecenas fermentum dolor id elementum condimentum. Duis sed urna eget ante sodales tempus eu sed odio. Nunc lorem dolor, suscipit quis efficitur quis, sodales et magna. Fusce arcu enim, varius ut mollis rhoncus, finibus non arcu. Nunc nec aliquet lacus. Cras non hendrerit nibh. Cras vel felis mollis lectus consectetur tristique mollis quis nibh. Nunc vehicula leo quis mauris dapibus, pretium fermentum erat ultrices. Ut aliquet efficitur pulvinar.\n<br>\n<br>Mauris vehicula quam odio, sed gravida nibh rhoncus et. Maecenas posuere leo eu libero suscipit, ac luctus quam sagittis. Vivamus consequat accumsan nisl, quis sagittis lacus scelerisque eu. Quisque mattis iaculis est, id cursus risus. Aliquam a malesuada erat. Proin nec vulputate leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel congue nulla, nec hendrerit massa. Curabitur elementum velit sem, efficitur consectetur ligula ultricies vitae. Proin lobortis nulla sed felis congue scelerisque. Sed dui nisi, scelerisque sed ultricies vitae, elementum id sem. Suspendisse rhoncus lacus venenatis ligula ultricies ullamcorper ac quis leo. Nam commodo eget purus vitae molestie. Praesent tempus risus eget risus condimentum aliquet. Etiam leo quam, suscipit in lobortis eu, vestibulum eget urna.\n  </p>",
+            "author": {
+                "name": "Chris"
+            },
+            "tags": [
+                   "tagg001"
+            ],
+            "date_published": "2021-10-11T16:40:38+07:00",
+            "date_modified": "2021-10-11T16:42:54+07:00"
+        }
+    ]
+}
