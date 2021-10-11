@@ -3,12 +3,45 @@
     <title>ABC</title>
     <link href="https://chrgrd1818.github.io/publii/feed.xml" rel="self" />
     <link href="https://chrgrd1818.github.io/publii" />
-    <updated>2021-10-11T17:12:14+07:00</updated>
+    <updated>2021-10-11T17:51:25+07:00</updated>
     <author>
         <name>Chris</name>
     </author>
     <id>https://chrgrd1818.github.io/publii</id>
 
+    <entry>
+        <title>Article 4</title>
+        <author>
+            <name>Chris</name>
+        </author>
+        <link href="https://chrgrd1818.github.io/publii/article-4.html"/>
+        <id>https://chrgrd1818.github.io/publii/article-4.html</id>
+            <category term="values"/>
+            <category term="about"/>
+
+        <updated>2021-10-11T17:51:25+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://chrgrd1818.github.io/publii/media/posts/4/placeholder-image-sample.png" alt="edwe" />
+                     Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sem dolor, eleifend nec interdum quis, luctus at dui. Duis gravida ornare sem, nec gravida ligula lacinia eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://chrgrd1818.github.io/publii/media/posts/4/placeholder-image-sample.png" alt="edwe" />
+                
+    <h3 id="lorem-ipsum-dolor-sit-amet">
+      Lorem ipsum dolor sit amet
+    </h3>
+
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sem dolor, eleifend nec interdum quis, luctus at dui. Duis gravida ornare sem, nec gravida ligula lacinia eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam nec volutpat urna, eu eleifend nulla. Etiam eros dui, pharetra in dui id, dapibus scelerisque nisl. Vestibulum vel consequat metus. Maecenas fermentum dolor id elementum condimentum. Duis sed urna eget ante sodales tempus eu sed odio. Nunc lorem dolor, suscipit quis efficitur quis, sodales et magna. Fusce arcu enim, varius ut mollis rhoncus, finibus non arcu. Nunc nec aliquet lacus. Cras non hendrerit nibh. Cras vel felis mollis lectus consectetur tristique mollis quis nibh. Nunc vehicula leo quis mauris dapibus, pretium fermentum erat ultrices. Ut aliquet efficitur pulvinar.
+<br>
+<br>Mauris vehicula quam odio, sed gravida nibh rhoncus et. Maecenas posuere leo eu libero suscipit, ac luctus quam sagittis. Vivamus consequat accumsan nisl, quis sagittis lacus scelerisque eu. Quisque mattis iaculis est, id cursus risus. Aliquam a malesuada erat. Proin nec vulputate leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel congue nulla, nec hendrerit massa. Curabitur elementum velit sem, efficitur consectetur ligula ultricies vitae. Proin lobortis nulla sed felis congue scelerisque. Sed dui nisi, scelerisque sed ultricies vitae, elementum id sem. Suspendisse rhoncus lacus venenatis ligula ultricies ullamcorper ac quis leo. Nam commodo eget purus vitae molestie. Praesent tempus risus eget risus condimentum aliquet. Etiam leo quam, suscipit in lobortis eu, vestibulum eget urna.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Article 3</title>
         <author>
@@ -16,8 +49,10 @@
         </author>
         <link href="https://chrgrd1818.github.io/publii/article-3.html"/>
         <id>https://chrgrd1818.github.io/publii/article-3.html</id>
+            <category term="blog 2"/>
+            <category term="blog"/>
 
-        <updated>2021-10-11T17:11:50+07:00</updated>
+        <updated>2021-10-11T17:49:54+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chrgrd1818.github.io/publii/media/posts/3/placeholder-image-sample.png" alt="we" />
@@ -47,10 +82,10 @@
         </author>
         <link href="https://chrgrd1818.github.io/publii/article-2.html"/>
         <id>https://chrgrd1818.github.io/publii/article-2.html</id>
-            <category term="tag003"/>
-            <category term="tag002"/>
+            <category term="blog 1"/>
+            <category term="blog"/>
 
-        <updated>2021-10-11T17:12:02+07:00</updated>
+        <updated>2021-10-11T17:51:10+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chrgrd1818.github.io/publii/media/posts/2/placeholder-image-sample.png" alt="" />
@@ -74,9 +109,10 @@
         </author>
         <link href="https://chrgrd1818.github.io/publii/article-1.html"/>
         <id>https://chrgrd1818.github.io/publii/article-1.html</id>
-            <category term="tagg001"/>
+            <category term="history"/>
+            <category term="about"/>
 
-        <updated>2021-10-11T17:12:14+07:00</updated>
+        <updated>2021-10-11T17:50:31+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chrgrd1818.github.io/publii/media/posts/1/placeholder-image-sample.png" alt="edwe" />
